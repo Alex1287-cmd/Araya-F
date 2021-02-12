@@ -27,7 +27,7 @@ https://www.youtube.com/c/DrawlNag
 handler.help = ['tutorial']
 handler.tags = ['info']
 handler.command = /^(tutorial)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
