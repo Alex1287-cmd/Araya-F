@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
   if (new Date - global.DATABASE._data.users[m.sender].lastclaim > 86400000) {
-    conn.reply(m.chat, 'Selamat anda mendapatkan +500 XP', m)  
-    global.DATABASE._data.users[m.sender].exp += 500
-    global.DATABASE._data.users[m.sender].lastclaim = new Date * 1
+    conn.reply(m.chat, 'Selamat anda mendapatkan +100000 XP', m)  
+    global.DATABASE._data.users[m.sender].exp += +100000
+    global.DATABASE._data.users[m.sender].lastclaim = new Date * 2
   } else conn.reply(m.chat, 'Anda sudah mengklaim klaim harian  hari ini', m)
 }
 handler.help = ['daily', 'claim']
