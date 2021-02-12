@@ -5,7 +5,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Rec: Drawl Nag
 ╠➥ Script: @Nurotomo
 ║
-╠➥ Github: https://github.com/Arya274/Arya-DN
+╠➥ Github: https://github.com/Alex1287-cmd/Araya-F
 ╠➥ Instagram: @arpunchs
 ╠➥ YouTube: Drawl Nag
 ║
@@ -16,11 +16,11 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
+╠➥ SmartFren: 0888-139-3308
+╠➥ Tsel: -
+╠➥ Indosat: -
 ║
-║>Request? Wa.me/6281357302007
+║>Request? Wa.me/+628881393308
 ║
 ╠═〘 NfQ BOT 〙 ═
 `.trim(), m)
